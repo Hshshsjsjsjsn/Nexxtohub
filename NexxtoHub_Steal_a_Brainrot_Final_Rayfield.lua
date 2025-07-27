@@ -3,9 +3,9 @@
 local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source"))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "NexxtoHub | Steal a Brainrot",
-    LoadingTitle = "Loading NexxtoHub...",
-    LoadingSubtitle = "by Ian/Nexxto",
+    Name = "NicolasHub | Steal a Brainrot",
+    LoadingTitle = "Loading NicolasHub...",
+    LoadingSubtitle = "by Nicolas/NicolasHub",
     ConfigurationSaving = {
         Enabled = false
     },
